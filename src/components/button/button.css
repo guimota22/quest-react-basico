@@ -1,0 +1,12 @@
+.btn-section {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.btn {
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
